@@ -1,0 +1,27 @@
+{
+  "name": "hello-js-ep02",
+  "version": "1.0.0",
+  "description": "my first npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloNunes/hello-js-seV-ep02.git"
+  },
+  "keywords": [
+    "treinamento",
+    "hello-js",
+    "se05"
+  ],
+  "author": "pablonunes082@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PabloNunes/hello-js-seV-ep02/issues"
+  },
+  "homepage": "https://github.com/PabloNunes/hello-js-seV-ep02#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
